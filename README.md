@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anvesh17
+- 👋 Hi, I’m @Anvesh
 - 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning NLP(Natural Language Process), GAN(Generative Adverserial Network), CV(Computer Vision)
 - 💞️ I’m looking to collaborate on Deep Learning projects and interact with some real world problems.
